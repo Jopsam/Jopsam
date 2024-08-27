@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Jopsam I. Sequera M.
 
-🌟 **FullStack Developer** with over 4 years of experience creating robust web applications and systems. My expertise lies in leveraging cutting-edge technologies to build efficient, scalable, and maintainable solutions.
+🌟 **FullStack Developer** with over 5 years of experience creating robust web applications and systems. My expertise lies in leveraging cutting-edge technologies to build efficient, scalable, and maintainable solutions.
 
 ## 🚀 Skills & Technologies:
 
